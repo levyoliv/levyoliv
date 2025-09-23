@@ -1,52 +1,67 @@
-# 👋 Olá, eu sou Levy!
+# 👋 Olá, eu sou Levy
 
-## 🚀 Sobre mim
-- 💻 Estudante de **Programação Back-End**  
-- 🔎 Interesse em **Engenharia da Computação**  
-- 📱 Desenvolvimento de **Sistemas**  
-- 🎹 Também toco **Teclado**
-- 🎯 Atualmente focado em me preparar para o **ENEM**  
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+World!;Bem+vindo(a)+ao+meu+perfil;Programador+Back-End;HTML,+CSS,+PHP,+CodeIgniter,+Python;Fique+a+vontade&font=Fira+Code&size=24&color=00FF7F&center=true)
+
+---
+
+## 💻 Sobre mim
+✨ Estudante de **Programação Back-End**  
+🔎 Interessado em **Engenharia da Computação**  
+📱 Desenvolvedor de **Sistemas**  
+🎹 Toco **Teclado** e amante de café ☕  
+🎯 Preparando-se para o **ENEM**
 
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/levyoliv">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=levyoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyoliv&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
+<center>
+  <img src="https://github-readme-stats.vercel.app/api?username=levyoliv&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</center>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
-<div style="display: inline_block"><br>
-  <img align="center" alt="PHP" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="CodeIgniter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
-  <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="NodeJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-</div>
+## 🏆 Principais Linguagens
+<center>
+  <img src="https://img.shields.io/badge/HTML-💻-orange?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-🎨-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-💻-violet?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CodeIgniter-🔥-red?style=for-the-badge&logo=codeigniter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-🐍-blue?style=for-the-badge&logo=python&logoColor=white"/>
+</center>
+
+---
+
+## 🛠️ Outras Tecnologias
+<center>
+  <img src="https://img.shields.io/badge/C++-💠-blue?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-☕-red?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-🐬-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-💙-purple?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-📊-orange?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+</center>
 
 ---
 
 ## 🌐 Onde me encontrar
-<a href="https://www.linkedin.com/in/levyoliveira" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://instagram.com/levyoliv__" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="mailto:levyoliveira654@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+<center>
+  <a href="https://www.linkedin.com/in/levyoliveira" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/levyoliv__" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:levyoliveira654@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</center>
 
 ---
 
-## 🐍 A cobrinha dos commits
-![Snake animation](https://github.com/levyoliv/levyoliv/blob/output/github-contribution-grid-snake.svg)
+## 🏆 Conquistas
+<center>
+  <img src="https://github-profile-trophy.vercel.app/?username=levyoliv&theme=tokyonight&no-frame=true" />
+</center>
 
 ---
 
-✨ Feito com dedicação e café ☕  
+☕✨ Feito com dedicação e café

@@ -8,7 +8,7 @@
 ✨ Estudante de **Programação Back-End**  
 🔎 Interessado em **Engenharia da Computação**  
 📱 Desenvolvedor de **Sistemas**  
-🎹 Toco **Teclado** e amante de café ☕  
+🎹 Toco **Teclado**  
 🎯 Preparando-se para o **ENEM**
 
 ---

@@ -1,111 +1,100 @@
 <div align="center">
 
-<img src="./assets/levy-logo.png" alt="levy.dev" width="220" />
+<img src="./assets/banner.png" alt="levy.dev — Levy Oliveira" width="100%" />
 
-<br />
-<br />
+<br>
 
-# Levy Oliveira
+**Desenvolvimento de Sistemas** &nbsp;•&nbsp; **Back-end & APIs** &nbsp;•&nbsp; **Design**
 
-**Estudante de Desenvolvimento de Sistemas**  
-Foco em **Back-end**, com interesse em **design** e **comunicação digital**.
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-315DE6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/levyoliveira)
-[![Instagram](https://img.shields.io/badge/Instagram-1B2945?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/levyoliv__)
-[![Gmail](https://img.shields.io/badge/Gmail-315DE6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:levyoliveira654@gmail.com)
+<a href="https://www.linkedin.com/in/levyoliveira"><b>LinkedIn</b></a> &nbsp;•&nbsp;
+<a href="https://github.com/levyoliv?tab=repositories"><b>Meus projetos</b></a> &nbsp;•&nbsp;
+<a href="mailto:levyoliveira654@gmail.com"><b>Contato</b></a>
 
 </div>
 
----
+<br>
 
-## Sobre mim
+## 01 / Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, com foco em **Back-end** e interesse em criar soluções organizadas, funcionais e bem estruturadas.
+Sou **Levy Oliveira**, estudante de **Desenvolvimento de Sistemas** com foco em **back-end**, APIs e bancos de dados. Também gosto de design, interfaces bem construídas e comunicação digital.
 
-Atualmente estudo e pratico tecnologias voltadas para desenvolvimento web, APIs, banco de dados e também mantenho interesse por design e interfaces.
+Meu objetivo é desenvolver soluções úteis, com código organizado e atenção à experiência de quem usa.
 
----
+```ts
+const levy = {
+  foco: "Back-end e desenvolvimento web",
+  estudando: ["APIs", "Arquitetura de sistemas", "Bancos de dados"],
+  interesses: ["Design", "UI/UX", "Projetos colaborativos"],
+  objetivo: "Transformar ideias em produtos que funcionam"
+};
+```
 
-## Stack principal
+## 02 / Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/levyoliv/elo-platform">ELO</a></h3>
+      <p>Comunidade universitária colaborativa com perguntas, respostas e compartilhamento de conhecimento.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>Supabase</code></p>
+      <sub>EM DESENVOLVIMENTO</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/levyoliv/crud">Sistema CRUD</a></h3>
+      <p>Projeto de desenvolvimento de sistemas para praticar operações de cadastro e gerenciamento de dados.</p>
+      <p><code>PHP</code> <code>Back-end</code></p>
+      <sub>REPOSITÓRIO PÚBLICO</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/levyoliv/plantech">Plantech</a></h3>
+      <p>Projeto web para explorar construção e organização de interfaces.</p>
+      <p><code>HTML</code> <code>Front-end</code></p>
+      <sub>REPOSITÓRIO PÚBLICO</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>VÉSPERA</h3>
+      <p>Conceito de jogo de estratégia territorial com cartas, dados e decisões táticas.</p>
+      <p><code>Game design</code> <code>Estratégia</code></p>
+      <sub>EM PLANEJAMENTO</sub>
+    </td>
+  </tr>
+</table>
+
+## 03 / Tecnologias & ferramentas
+
+**Back-end e linguagens**  
+`PHP` · `JavaScript` · `TypeScript` · `Python` · `C` · `C++` · `C#` · `Node.js` · `CodeIgniter` · `Express` · `Laravel`
+
+**Front-end e interfaces**  
+`HTML5` · `CSS3` · `React` · `Next.js` · `Tailwind CSS` · `Vite`
+
+**Bancos de dados e ferramentas**  
+`MySQL` · `PostgreSQL` · `SQLite` · `MongoDB` · `Git` · `GitHub` · `Docker` · `VS Code`
+
+**Design**  
+`Figma` · `Canva` · `Photoshop` · `Illustrator`
+
+<sub>Tecnologias com as quais já trabalhei, estudo ou tenho interesse — com diferentes níveis de experiência.</sub>
+
+## 04 / GitHub em números
 
 <div align="center">
-
-![PHP](https://img.shields.io/badge/PHP-1B2945?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-315DE6?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1B2945?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-315DE6?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-1B2945?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-315DE6?style=for-the-badge&logo=node.js&logoColor=white)
-
+  <img src="./assets/stats.png" alt="Estatísticas públicas do perfil levyoliv" width="100%" />
+  <sub>Imagem PNG gerada no próprio repositório e atualizada diariamente via GitHub Actions.</sub>
 </div>
 
----
+## 05 / Vamos conversar?
 
-## Tecnologias e ferramentas
+Gosto de conhecer pessoas, trocar experiências e colaborar em ideias que envolvem **tecnologia, desenvolvimento e design**.
 
-<div align="center">
+**[LinkedIn](https://www.linkedin.com/in/levyoliveira)** &nbsp;·&nbsp; **[GitHub](https://github.com/levyoliv)** &nbsp;·&nbsp; **[Instagram](https://instagram.com/levyoliv__)** &nbsp;·&nbsp; **[E-mail](mailto:levyoliveira654@gmail.com)**
 
-![HTML5](https://img.shields.io/badge/HTML5-1B2945?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-315DE6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-1B2945?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-315DE6?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1B2945?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-315DE6?style=for-the-badge&logo=vite&logoColor=white)
-
-![Express](https://img.shields.io/badge/Express-1B2945?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-315DE6?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-1B2945?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-315DE6?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-1B2945?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-315DE6?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-1B2945?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-315DE6?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-1B2945?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-315DE6?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1B2945?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-315DE6?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-1B2945?style=for-the-badge&logo=canva&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-315DE6?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-</div>
-
----
-
-## Estatísticas
+<br>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=levyoliv&show_icons=true&theme=transparent&title_color=315DE6&text_color=1B2945&icon_color=315DE6&border_color=E5E7EB&hide=issues" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyoliv&layout=compact&theme=transparent&title_color=315DE6&text_color=1B2945&border_color=E5E7EB" />
-
-</div>
-
----
-
-## Atualmente
-
-- Estudando **Back-end** e desenvolvimento web
-- Aprimorando projetos com **PHP, CodeIgniter, JavaScript e Python**
-- Evoluindo em **estrutura de sistemas**, **APIs** e **banco de dados**
-- Buscando crescer como desenvolvedor e construir projetos cada vez mais completos
-
----
-
-## Contato
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/levyoliveira">
-  <img src="https://img.shields.io/badge/LinkedIn-315DE6?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/levyoliv">
-  <img src="https://img.shields.io/badge/GitHub-1B2945?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://instagram.com/levyoliv__">
-  <img src="https://img.shields.io/badge/Instagram-315DE6?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
+  <img src="./assets/logo.png" alt="levy.dev" width="170" />
 </div>

@@ -21,8 +21,6 @@
 
 ---
 
-<br>
-
 ## Sobre mim
 
 Sou estudante de **Desenvolvimento de Sistemas**, com foco em **back-end**, APIs e bancos de dados.
@@ -33,11 +31,7 @@ Tenho interesse em desenvolvimento web, organização de sistemas e design de in
 
 ---
 
-<br>
-
 ## Projetos em destaque
-
-<br>
 
 <table>
   <tr>
@@ -49,7 +43,6 @@ Tenho interesse em desenvolvimento web, organização de sistemas e design de in
         Comunidade universitária colaborativa com perguntas,
         respostas e compartilhamento de conhecimento.
       </p>
-      <br>
       <p>
         <code>Next.js</code>
         <code>TypeScript</code>
@@ -65,7 +58,6 @@ Tenho interesse em desenvolvimento web, organização de sistemas e design de in
         Projeto para prática de cadastro, listagem
         e gerenciamento de dados.
       </p>
-      <br>
       <p>
         <code>PHP</code>
         <code>MySQL</code>
@@ -81,7 +73,6 @@ Tenho interesse em desenvolvimento web, organização de sistemas e design de in
         Projeto web voltado à construção e à
         organização de interfaces.
       </p>
-      <br>
       <p>
         <code>HTML</code>
         <code>CSS</code>
@@ -93,7 +84,6 @@ Tenho interesse em desenvolvimento web, organização de sistemas e design de in
         Projeto de jogo de estratégia e conquista
         territorial com cartas e dados.
       </p>
-      <br>
       <p>
         <code>Game design</code>
         <code>Estratégia</code>
@@ -107,187 +97,244 @@ Tenho interesse em desenvolvimento web, organização de sistemas e design de in
 
 ---
 
-<br>
-
 ## Tecnologias e ferramentas
-
-<br>
 
 ### Back-end e linguagens
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="PHP">
+      <br><sub>PHP</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript">
+      <br><sub>JavaScript</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript">
+      <br><sub>TypeScript</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=py" width="45" height="45" alt="Python">
+      <br><sub>Python</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js">
+      <br><sub>Node.js</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express">
+      <br><sub>Express</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel">
+      <br><sub>Laravel</sub>
+    </td>
+    <td align="center">
+      <img src="https://api.iconify.design/simple-icons/codeigniter.svg?color=%23EF4223" width="45" height="45" alt="CodeIgniter">
+      <br><sub>CodeIgniter</sub>
+    </td>
+  </tr>
+</table>
+
 <br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,js,ts,py,nodejs,express,laravel&perline=7" alt="Back-end e linguagens" />
-
-<br><br>
-
-<img src="https://api.iconify.design/simple-icons/codeigniter.svg?color=%23EF4223" alt="CodeIgniter" width="47" height="47" />
-
-<br><br>
-
-<sub>PHP · JavaScript · TypeScript · Python · Node.js · Express · Laravel · CodeIgniter</sub>
-
-</div>
-
-<br><br>
 
 ### Front-end
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5">
+      <br><sub>HTML5</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3">
+      <br><sub>CSS3</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React">
+      <br><sub>React</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js">
+      <br><sub>Next.js</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS">
+      <br><sub>Tailwind CSS</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="45" height="45" alt="Vite">
+      <br><sub>Vite</sub>
+    </td>
+  </tr>
+</table>
+
 <br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&perline=6" alt="Front-end" />
-
-<br><br>
-
-<sub>HTML5 · CSS3 · React · Next.js · Tailwind CSS · Vite</sub>
-
-</div>
-
-<br><br>
 
 ### Bancos de dados e ferramentas
 
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL">
+      <br><sub>MySQL</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL">
+      <br><sub>PostgreSQL</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite">
+      <br><sub>SQLite</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB">
+      <br><sub>MongoDB</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git">
+      <br><sub>Git</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub">
+      <br><sub>GitHub</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker">
+      <br><sub>Docker</sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code">
+      <br><sub>VS Code</sub>
+    </td>
+  </tr>
+</table>
+
 <br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,git,github,docker,vscode&perline=8" alt="Bancos de dados e ferramentas" />
-
-<br><br>
-
-<sub>MySQL · PostgreSQL · SQLite · MongoDB · Git · GitHub · Docker · VS Code</sub>
-
-</div>
-
-<br><br>
 
 ### Design e produtividade
 
+**Design**
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=figma" width="45" height="45" alt="Figma">
+      <br><sub>Figma</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=ps" width="45" height="45" alt="Photoshop">
+      <br><sub>Photoshop</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://skillicons.dev/icons?i=ai" width="45" height="45" alt="Illustrator">
+      <br><sub>Illustrator</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://api.iconify.design/simple-icons/canva.svg?color=%2300C4CC" width="45" height="45" alt="Canva">
+      <br><sub>Canva</sub>
+    </td>
+  </tr>
+</table>
+
 <br>
 
-<div align="center">
+**Produtividade**
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&perline=3" alt="Figma, Photoshop e Illustrator" />
-
-&nbsp;&nbsp;
-
-<img src="https://api.iconify.design/simple-icons/canva.svg?color=%2300C4CC" alt="Canva" width="47" height="47" />
-
-<br><br>
-
-<sub>Figma · Photoshop · Illustrator · Canva</sub>
-
-<br><br><br>
-
-<img src="https://api.iconify.design/mdi/microsoft-powerpoint.svg?color=%23D24726" alt="PowerPoint" width="47" height="47" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://api.iconify.design/mdi/microsoft-word.svg?color=%232B579A" alt="Word" width="47" height="47" />
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-<img src="https://api.iconify.design/mdi/microsoft-excel.svg?color=%23217A42" alt="Excel" width="47" height="47" />
-
-<br><br>
-
-<sub>PowerPoint · Word · Excel</sub>
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://api.iconify.design/mdi/microsoft-powerpoint.svg?color=%23D24726" width="45" height="45" alt="PowerPoint">
+      <br><sub>PowerPoint</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://api.iconify.design/mdi/microsoft-word.svg?color=%232B579A" width="45" height="45" alt="Word">
+      <br><sub>Word</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://api.iconify.design/mdi/microsoft-excel.svg?color=%23217A42" width="45" height="45" alt="Excel">
+      <br><sub>Excel</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 <sub>Ferramentas que utilizo ou estudo, com diferentes níveis de experiência.</sub>
 
-<br><br>
+<br>
 
 ---
 
-<br>
-
 ## Estudando atualmente
-
-<br>
 
 - Desenvolvimento back-end e APIs
 - Bancos de dados e organização de sistemas
 - Desenvolvimento web e interfaces
 
-<br><br>
+<br>
 
 ---
-
-<br>
 
 ## GitHub em números
 
-<br>
-
 <div align="center">
 
-<img src="./assets/stats.png" alt="Estatísticas públicas do GitHub de levyoliv" width="100%" />
+  <img src="./assets/stats.png" alt="Estatísticas públicas do GitHub de levyoliv" width="100%" />
 
 </div>
 
-<br><br>
+<br>
 
 ---
-
-<br>
 
 ## Contribuições
 
-<br>
-
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/levyoliv/levyoliv/output/snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/levyoliv/levyoliv/output/snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/levyoliv/levyoliv/output/snake.svg"
-    alt="Animação das contribuições"
-    width="100%"
-  />
-</picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/levyoliv/levyoliv/output/snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/levyoliv/levyoliv/output/snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/levyoliv/levyoliv/output/snake.svg"
+      alt="Animação das contribuições do GitHub"
+      width="100%"
+    />
+  </picture>
 
 </div>
 
-<br><br>
+<br>
 
 ---
 
-<br>
-
 ## Contato
-
-<br>
 
 - **LinkedIn:** [linkedin.com/in/levyoliveira](https://www.linkedin.com/in/levyoliveira)
 - **GitHub:** [github.com/levyoliv](https://github.com/levyoliv)
 - **Instagram:** [instagram.com/levyoliv__](https://instagram.com/levyoliv__)
 - **E-mail:** [levyoliveira654@gmail.com](mailto:levyoliveira654@gmail.com)
 
-<br><br>
+<br>
 
 ---
 
-<br>
-
 <div align="center">
 
-<img src="./assets/logo.png" alt="levy.dev" width="180" />
+  <img src="./assets/logo.png" alt="levy.dev" width="180" />
 
 </div>
-
-<br>

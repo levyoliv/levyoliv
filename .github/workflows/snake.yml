@@ -1,0 +1,31 @@
+
+name: Atualizar cobrinha
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "25 8 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar animação clara e escura
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: levyoliv
+          outputs: |
+            dist/snake.svg?color_snake=%23315DE6&color_dots=%23F3F6FF,%23DCE5FF,%23AFC5FF,%236A92F1,%23315DE6
+            dist/snake-dark.svg?palette=github-dark&color_snake=%2382A6FF&color_dots=%23111A2E,%23243552,%233A558C,%235E82CE,%2382A6FF
+
+      - name: Publicar na branch output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

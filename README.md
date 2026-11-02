@@ -76,7 +76,7 @@ const levy = {
 `MySQL` · `PostgreSQL` · `SQLite` · `MongoDB` · `Git` · `GitHub` · `Docker` · `VS Code`
 
 **Design**  
-`Figma` · `Canva` · `Photoshop` · `Illustrator`
+`Figma` · `Canva` · `Photoshop` · `Illustrator` `Powerpoint` `Word` `Excel`
 
 <sub>Tecnologias com as quais já trabalhei, estudo ou tenho interesse — com diferentes níveis de experiência.</sub>
 
